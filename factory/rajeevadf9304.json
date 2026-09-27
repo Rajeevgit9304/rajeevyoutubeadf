@@ -1,0 +1,15 @@
+{
+	"name": "rajeevadf9304",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a36e406c-2d07-4b59-8288-d899ba58563a",
+		"tenantId": "0d9e11bf-e2d6-4f93-a0df-cd80f1573aff"
+	}
+}
